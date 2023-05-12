@@ -1,0 +1,9 @@
+
+
+### VS Code ###
+.vscode/
+.Spark/ipynb_checkpoints
+### Mac OS ###
+.DS_Store
+.idea
+.idea/workspace.xml
